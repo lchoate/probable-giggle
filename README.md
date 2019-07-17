@@ -1,4 +1,4 @@
-# app
+# Vue Todo
 
 ## Project setup
 ```
